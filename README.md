@@ -112,10 +112,10 @@ python vigenere.py
 
 Salida esperada:
 ```
-Encrypted text: mrttaqrhknsw ih puggrur
+Encrypted text: p ldkc oofpvtl ltpppwqo
 Key: happycoding
 
-Decrypted text: ilovemachinelearning
+Decrypted text: i love machine learning
 ```
 
 ---
