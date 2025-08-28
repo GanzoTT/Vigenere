@@ -119,14 +119,3 @@ Decrypted text: ilovemachinelearning
 ```
 
 ---
-
-## 🛠️ Mejoras posibles
-- Soporte para mayúsculas.  
-- Incluir interfaz gráfica o interfaz de línea de comandos.  
-- Añadir pruebas unitarias (`unittest` o `pytest`).  
-- Permitir cifrado/descifrado de archivos completos.  
-
----
-
-## 📖 Referencias
-- [Cifrado de Vigenère - Wikipedia](https://es.wikipedia.org/wiki/Cifrado_de_Vigen%C3%A8re)
